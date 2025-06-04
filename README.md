@@ -1,4 +1,4 @@
-# The 3D Animated Rubik's Cube (3D)
+# The 3D Animated Rubik's Cube 
 
 A fully interactive, customizable, and animated **3D Rubik's Cube** simulation built with **Three.js** for the web.
 
